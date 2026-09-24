@@ -1,10 +1,10 @@
-### Hi, I'm Praveen 👋
+### Hi, I'm Praveen 
 
 Backend & AI Engineer with 5 years of experience. I build **multi-agent AI systems** and **distributed backends** in Go, Java, and Python. Currently at Salesforce (Sales Cloud / Agentforce); previously at Oracle working on database engine internals.
 
 - 🔭 **Currently:** shipping production multi-agent features on Salesforce Agentforce
 - 🌱 **Exploring:** agent orchestration, LLM reliability & evals, vector search
-- 💬 **Ask me about:** multi-agent systems, LLM gateway reliability, query optimization & indexing
+- 💬 **Ask me about:** Salesforce, Multi-agent systems, LLM gateway reliability, query optimization & indexing
 - 📫 **Reach me:** kpvarma5899@gmail.com
 
 ---
